@@ -42,7 +42,7 @@ The Vircadia Domain server (codename Athena) is developed in this [repository](h
 
 A test conducted under these conditions during a live conference in world yielded 4.5 users per core with 32 cores, therefore maxing out at 140 users.
 
-Under a configuration with more cores, a performance tuned audio codec, and splitting assignment clients across multiple servers it is possible to support many hundreds of users in real-time, in a single instance.
+Under a configuration with more cores, a performance tuned audio codec, and splitting assignment clients across multiple servers(how???) it is possible to support many hundreds of users in real-time, in a single instance.
 
 ## Compiling from Source
 
